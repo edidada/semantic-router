@@ -1,1 +1,0 @@
-global.model_catalog.external: removed_section: external models are removed; run `vllm-sr config migrate` (drop it)

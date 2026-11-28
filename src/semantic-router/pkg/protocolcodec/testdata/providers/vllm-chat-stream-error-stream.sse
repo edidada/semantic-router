@@ -1,4 +1,0 @@
-data: {"error": {"message": "Grammar error: regex parse error:\n    [\n    ^\nerror: unclosed character class", "type": "BadRequestError", "param": null, "code": 400}}
-
-data: [DONE]
-

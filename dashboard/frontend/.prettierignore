@@ -1,9 +1,0 @@
-node_modules
-dist
-coverage
-
-public/signal-compiler.wasm
-public/wasm_exec.js
-
-# Written by scripts/generate-decision-runtime-catalog.py
-*.generated.json

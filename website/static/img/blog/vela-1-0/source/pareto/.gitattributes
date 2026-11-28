@@ -1,2 +1,0 @@
-# Preserve upstream CRLF bytes while retaining a readable CSV diff.
-pareto-points.csv -text whitespace=cr-at-eol

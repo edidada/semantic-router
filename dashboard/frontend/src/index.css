@@ -1,9 +1,0 @@
-@import 'tailwindcss' source(none);
-@import 'tw-animate-css';
-@import '@fontsource-variable/geist';
-@import '@fontsource-variable/geist-mono';
-@import './ui/styles/theme.css';
-@import './ui/styles/legacy.css';
-@import './ui/styles/code-highlight.css';
-
-@source './';

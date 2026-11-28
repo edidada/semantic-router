@@ -1,9 +1,0 @@
-{
-  "name": "vllm-sr",
-  "plugins": [
-    {
-      "name": "vsr",
-      "source": { "source": "local", "path": "./src/agent-harness/codex" }
-    }
-  ]
-}

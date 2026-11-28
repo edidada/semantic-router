@@ -1,6 +1,0 @@
-# CODEOWNERS for vLLM Semantic Router
-#
-# Repository-wide review coverage. The trusted Community Label Sync workflow
-# requests an additional reviewer from the PR's owning Working Group.
-# OWNER files continue to describe human path ownership.
-* @rootfs @Xunzhuo
